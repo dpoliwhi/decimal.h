@@ -154,6 +154,17 @@ $ cd decimal.h/src/
 $ make
 ```
 
-## Tests
+
+<a name="Tests"></a> 
+## Tests and Lcov report
 * Unit tests are implemented using [Check](https://libcheck.github.io/check/) & coverage report with [LCOV](https://github.com/linux-test-project/lcov)
 
+
+```
+$ make test
+```
+
+```
+$ make gcov_report
+$ make open
+```
