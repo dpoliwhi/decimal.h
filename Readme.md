@@ -5,7 +5,7 @@
 
 # Decimal library
 
-### Implementation of `decimal` value type in the C programming language. \
+### Implementation of `decimal` value type in the C programming language.<br>
 This type represents 96-bit signed real number featuring oprations without floating point imprecision. \
 This library adds the ability to work with the "decimal" values type<br>
 
