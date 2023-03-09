@@ -13,8 +13,8 @@ This library adds the ability to work with the "decimal" type<br>
 ## Сontents
 * [Description](#Description)
 * [Goals](#goals)
-* [Main information](#Main information)
-* [Main functions](#Main functions)
+* [Main information](#information)
+* [Main functions](#functions)
 * [Build](#build)
 * [Tests](#tests)
 
@@ -30,6 +30,9 @@ The binary representation of a Decimal number consists of a 1-bit sign, a 96-bit
 - Implement a binary api for Decimal math operations
 - Fully covered with tests using Check
 
+
+
+<a name="information"></a> 
 ## Main information
 ### Intro
 
@@ -68,6 +71,8 @@ typedef struct
 } s21_decimal;
 ```
 
+
+<a name="functions"></a> 
 ## Main functions
 
 
