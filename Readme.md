@@ -4,11 +4,10 @@
 
 
 # Decimal library
-Implementation of `decimal` value type in C language. This type represents 96-bit signed real number featuring opratinons without floating point imprecision. The library also provides an API for working with this type.
 
 ### Implementation of `decimal` value type in the C programming language.<br>
 This type represents 96-bit signed real number featuring opratinons without floating point imprecision. \
-This library adds the ability to work with the "decimal" type<br>
+This library adds the ability to work with the "decimal" values type<br>
 
 ## Сontents
 * [Description](#Description)
